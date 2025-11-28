@@ -1,4 +1,8 @@
-## Hi there 👋
+# <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVhYXhzOHBjaXR3bzRkZ2F3cDBybGFleXo2NzlwMWl5eDh2ZDFkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100"/> Desarrollador orientado a crear soluciones reales
+
+
+
+
 
 <!--
 **DevArmando96/DevArmando96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
